@@ -1,0 +1,11 @@
+welcome_page_title:
+  other: Welcome to the {page}
+  
+welcome_page_subtitle:
+  other: Slack is a messaging app for teams.
+
+about_page_title:
+  other: Hello!
+
+about_page_back_button:
+  other: Read more
